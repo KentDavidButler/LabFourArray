@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\GrandCircus\LabFourArray\LabFourArray\bin\Debug\LabFourArray.exe.config
+C:\Users\Administrator\source\repos\GrandCircus\LabFourArray\LabFourArray\bin\Debug\LabFourArray.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabFourArray\LabFourArray\bin\Debug\LabFourArray.pdb
+C:\Users\Administrator\source\repos\GrandCircus\LabFourArray\LabFourArray\obj\Debug\LabFourArray.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabFourArray\LabFourArray\obj\Debug\LabFourArray.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabFourArray\LabFourArray\obj\Debug\LabFourArray.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabFourArray\LabFourArray\obj\Debug\LabFourArray.pdb
